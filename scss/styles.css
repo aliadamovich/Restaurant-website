@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans&display=swap");
+@font-face {
+  font-family: "AkzidenzGroteskPro";
+  src: url("../fonts/AkzidenzGroteskPro-Bold.woff2") format("woff2"), url("../fonts/AkzidenzGroteskPro-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+.header {
+  font-family: "AkzidenzGroteskPro";
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  width: 880px;
+  margin: 0 auto;
+}
+
+.header-top {
+  font-size: 30px;
+}/*# sourceMappingURL=styles.css.map */
